@@ -1,13 +1,18 @@
 {
   "name": "wechat-mqtt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/main.js",
   "lib": "dist/main.js",
   "scripts": {
     "build": "webpack"
   },
-  "keywords": ["wechat-mqtt", "wechat", "mqtt", "mini-mqtt"],
+  "keywords": [
+    "wechat-mqtt",
+    "wechat",
+    "mqtt",
+    "mini-mqtt"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
