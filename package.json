@@ -2,11 +2,8 @@
   "name": "wechat-mqtt",
   "version": "1.0.2",
   "description": "",
-  "main": "src/index.js",
-  "lib": "src/index.js",
-  "scripts": {
-    "build": "webpack"
-  },
+  "main": "index.js",
+  "scripts": {},
   "keywords": [
     "wechat-mqtt",
     "wechat",
