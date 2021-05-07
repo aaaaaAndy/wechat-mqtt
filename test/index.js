@@ -1,0 +1,1 @@
+const mqtt = require('../umd/index');

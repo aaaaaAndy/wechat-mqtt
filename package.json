@@ -4,7 +4,10 @@
   "description": "",
   "main": "umd/index.js",
   "lib": "umd/index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "webpack",
+    "test": "node test/index.js"
+  },
   "keywords": [
     "wechat-mqtt",
     "wechat",
